@@ -1,0 +1,2 @@
+# Regression-Analysis-of-State-Spending-and-Student-Outcomes
+This project explores the relationship between state education spending and SAT scores using regression analysis. It examines how factors like per-pupil expenditure, teacher salaries, and student participation rates impact test scores, highlighting the challenge of isolating spending effects due to varying SAT participation across states.
